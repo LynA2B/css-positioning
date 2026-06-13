@@ -124,3 +124,31 @@ footer {
     }
     
 }
+
+/* start of positioning styles */
+
+/* 1. text-align center */
+.text-align-center{
+    text-align: center;
+    background-color: aqua;
+    padding: 1em;
+}
+
+/* 2. margin auto center */
+.margin-auto > div {
+    margin: auto;
+    width: 50%;
+    background-color: beige;
+    text-align: center;
+    padding: 1em;
+}
+
+
+/* 3. two-column layout */
+* {
+    box-sizing: border-box;
+}
+
+.my-column {
+    fl
+}
